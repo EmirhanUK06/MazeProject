@@ -1,0 +1,8 @@
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+C:\Users\emirh\Desktop\midterm2\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.SuggestedBindingRedirects.cache
